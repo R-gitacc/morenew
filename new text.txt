@@ -4,3 +4,4 @@ Adding changes
 Changing content in remote repository
 Adding new content
 Adding another line
+Adding new line for merging
